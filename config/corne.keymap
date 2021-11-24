@@ -34,7 +34,7 @@
                         bindings = <
    &kp DEL   &kp N0   &kp N9 &kp N8 &kp N7 &kp N6       &kp N5  &kp N4    &kp N3   &kp N2   &kp N1   &kp ESC
    &kp RET   &kp APOS &kp N6 &kp N5 &kp N4 &trans       &trans  &kp RIGHT &kp UP   &kp DOWN &kp LEFT &kp CAPS
-   &kp RSHFT &trans   &kp N3 &kp N2 &kp N1 &trans       &trans  &kp RIGHT &kp DOWN &kp LEFT &trans   &LSHFT
+   &kp RSHFT &trans   &kp N3 &kp N2 &kp N1 &trans       &trans  &kp RIGHT &kp DOWN &kp LEFT &trans   &kp LSHFT
                           &kp N0 &trans &kp SPACE       &kp RCTRL &trans &kp LGUI
                         >;
                 };
